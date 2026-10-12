@@ -2773,8 +2773,8 @@
     ]
   },
   "beneficios": {
-    "titulo": "Hospedando na Império, você tem condições especiais em serviços da EcoVip.",
-    "intro": "A Império faz parte do Grupo EcoVip e oferece serviços extras com preço especial para seus hóspedes.",
+    "titulo": "Hospedando na Império, você também aproveita benefícios da EcoVip.",
+    "intro": "A Império faz parte do Grupo EcoVip e oferece benefícios para tornar a sua estadia ainda mais completa:",
     "itens": [
       {
         "id": "monjolos",
@@ -2789,7 +2789,7 @@
           ],
           "blocos": [
             {
-              "titulo": "O que o pacote inclui",
+              "titulo": "O que está incluso",
               "itens": [
                 "Almoço (das 12h às 14h)",
                 "Acesso ao bar e ao salão de jogos",
